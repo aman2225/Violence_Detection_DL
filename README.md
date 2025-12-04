@@ -1,4 +1,4 @@
-# Real Time Violence Detection using MobileNet and Bi-directional LSTM
+<!-- # Real Time Violence Detection using MobileNet and Bi-directional LSTM
 #### This repository is part of the Graduation Project for NTI Training - AI and IoT DEY Initiative. 
 ### Kaggle Notebook : https://www.kaggle.com/code/abduulrahmankhalid/real-time-violence-detection-mobilenet-bi-lstm
 
@@ -25,4 +25,4 @@
   ### Despite the performance of our proposed model, it needs to be further validated with more standard datasets where identification of one to many or many to many violent activities including weapons are tough to detect.
 
 
-- Refrences: [CNN-BiLSTM Model for Violence Detection in Smart Surveillance](https://link.springer.com/article/10.1007/s42979-020-00207-x#Sec15)
+- Refrences: [CNN-BiLSTM Model for Violence Detection in Smart Surveillance](https://link.springer.com/article/10.1007/s42979-020-00207-x#Sec15) -->
